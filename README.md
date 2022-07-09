@@ -14,11 +14,11 @@
 1. **You have to use Jupyter notebooks for all your calculations!** We must be able to redo your calculations from the Jupyter notebook! 
 1. **Describe in the Jupyter notebook what you are doing!** Just providing code is not enough! **Use markdown cells and appropriate formatting** to add your descriptive text.  
 
-## Task 01: Solar Dish with Stirling Engine
+## Task 01: U-Value of a Tiny House
 
 [Task01](Task01/README.md) (ready)
 
-## Task 02: U-Value of a Tiny House
+## Task 02: Solar Dish with Stirling Engine
 
 [Task02](Task02/README.md) (ready)
 
