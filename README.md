@@ -11,11 +11,12 @@
 1. Edit the provided Jupyter notebooks containing the exercises and answer the questions directly in them. Add additional code and markdown cells as needed. It is not necessary to create new notebooks!
 1. **Do not use pocket calculators or spreadsheet programs!** Do all your calculations explicitly in the Jupyter notebooks! Otherwise we will deduct points for this. 
 1. Just providing code is not enough! **Describe shortly** what you are doing! Use **markdown cells** with **appropriate formatting** (headers, lists, typesetting of equations, etc.) in your Jupyter Notebooks to explain your steps. Use short comments in your code cells, too.
-1. Present your work in the form of **videos**. Imagine you would explain it to other course members. The videos are Task 03. 
-1. After you have completed the tasks, zip the directory with your code and data and **upload the zip file to Moodle.**
-1. **Just one group member should upload** the report to save space on Moodle. The upload area will be published in the [**Phy2 SS2022 Moodle**](https://moodle.hochschule-rhein-waal.de/course/view.php?id=15227) course.
+1. Present your work in the form of **videos**. Imagine you would explain it to other course members. The videos are Task 03. **Do NOT take video recordings from your computer screen with your smartphone!** Use professional **screencast software** such as OBS or similar!
 
-## Task 01: U-Value of a Tiny House
+1. After you have completed the tasks, zip the directory with your code and data and **upload the zip file to Moodle.**
+1. **Just one group member should upload** the report to save space on Moodle. The upload area will be published in the [Phy2 SS2022 Moodle](https://moodle.hochschule-rhein-waal.de/course/view.php?id=15227) course.
+
+## General Infos, Exam Only Repository
 
 [Task01](Task01/README.md) (ready)
 
@@ -23,6 +24,10 @@
 
 [Task02](Task02/README.md) (NOT ready)
 
-## Task 03: Videos
+## Task 03: Produce a short video explaining your work.
 
 [Task03](Task03/README.md) (ready)
+
+
+
+
