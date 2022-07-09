@@ -13,7 +13,8 @@
 1. Just providing code is not enough! **Describe shortly** what you are doing! Use **markdown cells** with **appropriate formatting** (headers, lists, typesetting of equations, etc.) in your Jupyter Notebooks to explain your steps. Use short comments in your code cells, too.
 1. Present your work in the form of **videos** and explain the Jupyter notebooks. Imagine you would present it to other course members. The video production is Task 03. **Do NOT take video recordings from your computer screen with your smartphone!** Use professional **screencast software** such as OBS or similar!
 1. After you have completed the tasks, zip the directory with your code and data and **upload the zip file to Moodle.**
-1. **Just one group member should upload** the report to save space on Moodle. The upload area will be published in the [**Phy2 SS2022 Moodle Course**](https://moodle.hochschule-rhein-waal.de/course/view.php?id=15227).
+1. **Just one group member should upload** the report to save space on Moodle. 
+<br>The upload area will be published in the [**Phy2 SS2022 Moodle Course**](https://moodle.hochschule-rhein-waal.de/course/view.php?id=15227).
 
 ## Task 01: U-Value of a Tiny House
 
