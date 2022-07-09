@@ -1,3 +1,3 @@
-# Task 02: Solar Dish with Stirling Engine
+# Task 02: Solar Dish with Stirling Engine (NOT READY YET)
 
-Use the [Jupyter Notebook in this folder](Task02_U-Value_V03.ipynb) to solve the exercises.
+Use the [**Jupyter Notebook**](Task02_Stirling.ipynb) in this folder to solve the exercises.
