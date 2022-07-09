@@ -19,9 +19,9 @@
 
 [Task01](Task01/README.md) (ready)
 
-## Task 02: Solar Dish with Stirling Engine
+## Task 02: Solar Dish with Stirling Engine (NOT READY YET)
 
-[Task02](Task02/README.md) (NOT  READY YET!)
+[Task02](Task02/README.md) (NOT  READY YET)
 
 ## Task 03: Videos
 
