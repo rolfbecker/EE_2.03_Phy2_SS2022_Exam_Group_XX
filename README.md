@@ -1,4 +1,4 @@
-# EE_2.03_Phy2_WS2022_II_Exam_Group_XX
+# EE_2.03_Phy2_SS2022_Exam_Group_XX
 
 ## General Infos
 
