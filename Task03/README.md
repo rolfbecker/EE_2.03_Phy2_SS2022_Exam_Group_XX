@@ -1,5 +1,7 @@
-# Task 03: Produce a short video explaining your work.
+# Task 03: Produce short videos explaining your work.
 
-Produce a short video in which you explain your work. Save the video in the local sub-folder [video](./video/) and push it to your repo.
+Produce short videos in which you explain your work by explaining your Jupyter notebooks. Save the videos in the local sub-folder [video](./video/). THey will be part of your zip file you upload to Moodle.
 
-In case the video becomes too large gitlab would refuse the file to be uploaded. Then we have to fid another way, e.g. providing a sciebo upload area. 
+**Do NOT take video recordings from your computer screen with your smartphone!** Use professional screencast software such as OBS or similar.
+
+In case the videos become too large Moodle would refuse the file to be uploaded. Then we have to find another way, e.g. providing a sciebo upload area. 
